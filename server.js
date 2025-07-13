@@ -8,7 +8,7 @@ app.use(cors());
 app.use(express.json());
 app.use(express.static(__dirname + "/public"));
 
-const API_KEY = "AIzaSyCADod7jbrRcsNSP2FDf0NAEJGLbFoQr1U";
+const API_KEY = "your API_KEY";
 const API_URL = "https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash-002:generateContent?key=" + API_KEY;
 
 
