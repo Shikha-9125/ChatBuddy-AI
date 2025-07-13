@@ -1,4 +1,5 @@
 // server.js
+require("dotenv").config();
 const express = require("express");
 const axios = require("axios");
 const cors = require("cors");
@@ -8,7 +9,9 @@ app.use(cors());
 app.use(express.json());
 app.use(express.static(__dirname + "/public"));
 
-const API_KEY = "your API_KEY";
+//const API_KEY = "your API_KEY";
+const API_KEY = process.env.API_KEY;
+
 const API_URL = "https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash-002:generateContent?key=" + API_KEY;
 
 
