@@ -109,14 +109,6 @@ If you want to make improvements or bug fixes:
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots if you want—example below)*
-
-![ChatBuddy AI Screenshot](screenshot.png)
-
----
-
 ## 📄 License
 
 MIT License.
