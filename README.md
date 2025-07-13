@@ -4,7 +4,7 @@
 A simple, beautiful AI chatbot powered by **Google Gemini**.  
 Built with Node.js, Express, and HTML/CSS frontend.  
 
-🌟 **Demo:** [https://chat-buddy-ai-one.vercel.app/](https://chat-buddy-ai-one.vercel.app/)
+🌟 **Demo:** [https://chatbuddy-ai-wjxw.onrender.com/](https://chatbuddy-ai-wjxw.onrender.com/)
 
 ---
 
